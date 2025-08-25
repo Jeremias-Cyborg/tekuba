@@ -20,6 +20,11 @@
     --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+html, body{
+    overflow-x: hidden;
+    width: 100%;
+}
+
 /* Base Styles */
 * {
     margin: 0;
